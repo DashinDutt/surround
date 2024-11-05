@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "surround-win", "surround-win\surround-win.csproj", "{179ACA55-3151-4614-A33A-5EBDF558FC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179ACA55-3151-4614-A33A-5EBDF558FC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179ACA55-3151-4614-A33A-5EBDF558FC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179ACA55-3151-4614-A33A-5EBDF558FC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179ACA55-3151-4614-A33A-5EBDF558FC86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD76399-524E-4DCF-BF3B-32B24CDA023F}
+	EndGlobalSection
+EndGlobal
